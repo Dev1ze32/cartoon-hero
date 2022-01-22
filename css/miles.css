@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: #2B3784;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+
+h1, h2{
+    font-family: 'Marvel', sans-serif;
+    font-family: 'Sedgwick Ave', cursive;
+    font-size: 40px;
+}
+
+header h1{
+    color: white;
+}
+
+header img {
+    border-radius: 220px;
+    width: 431px;
+    border: 12px solid;
+}
+
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px 20px 30px;
+}
+
+main img{
+    max-width: 100%;
+}
+
+h2{
+    font-size: 40px;
+}
+
+main p{
+    font-size: 20px;
+}
+
+a{
+    color: #DF1F2D;
+}
+
+a:hover{
+    color: white;
+    background-color: #447BBE;
+}
+
+footer{
+    background-color: #2B3784;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+footer p{
+    margin: 0;
+}
+
+footer a:hover{
+    opacity: .5;
+    background-color: transparent;
+}
+
+p.caption{
+    color: gray;
+    font-size: 10px;
+    font-style: italic;
+    margin-top: 0;
+}
+
+h1.head_title {
+    font-size: 70px;
+}
